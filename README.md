@@ -1,4 +1,4 @@
-# FindMyFrame local demo
+# FindphotoA.I — FindMyFrame local demo
 
 A browser-only event photo finder for testing a gallery of up to 50 photos. The organizer experience is designed for a computer; the guest experience is designed for a phone camera.
 
