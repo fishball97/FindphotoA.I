@@ -1,0 +1,12 @@
+{
+  "name": "FindMyFrame",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
+  "postCreateCommand": "corepack enable && pnpm install",
+  "forwardPorts": [5173],
+  "portsAttributes": {
+    "5173": {
+      "label": "FindMyFrame preview",
+      "onAutoForward": "openPreview"
+    }
+  }
+}
